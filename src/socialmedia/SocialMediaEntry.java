@@ -1,4 +1,3 @@
-package socialmedia;
 
 /**
  * Defines a common interface for all social media entries.

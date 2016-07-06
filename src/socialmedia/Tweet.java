@@ -1,4 +1,3 @@
-package socialmedia;
 
 /**
  * Encapsulates the data of a Twitter 'Tweet'.
